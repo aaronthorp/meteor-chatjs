@@ -1,0 +1,9 @@
+{
+  "name": "chatjs",
+  "description": "Chat.JS Meteor integrtion",
+  "homepage": "https://github.com/aaronthorp/meteor-chatjs",
+  "author": "Aaron Thorp (http://aaronthorp.com)",
+  "version": "0.1.0",
+  "git": "https://github.com/aaronthorp/meteor-chatjs.git",
+  "packages": { }
+}
